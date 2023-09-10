@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shamanth
-- 🌱 I’m currently learning AI and machine learning
-- 💞️ I’m currently a student learning about git
+- 🌱 Post graduate in Machine learning and Artificial intelligence IIITB. Currently pursuing Masters from LJMU.
 - 📫 You can reach me on bcshamanth@gmail.com
 
 <!---
